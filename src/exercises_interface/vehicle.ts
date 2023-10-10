@@ -34,3 +34,4 @@ class VehicleMotorcycle implements IMotorcycle{
     color: "negra";
     speeds:5;
 }
+
