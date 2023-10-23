@@ -26,6 +26,6 @@ class Person {
 
 }
 
-const Erick=new Person("Erick",23,1123456789);
+const erick=new Person("Erick",23,1123456789);
 
-console.log(Erick);
+console.log(erick);
